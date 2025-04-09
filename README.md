@@ -12,7 +12,7 @@ My main areas of interest are
 
 **On this profile, you'll find:**
 *   🎓 **Academic Explorations:** Code related to my university coursework and larger projects. These demonstrate concepts I've learned and applied. You might find forks here related to group assignments or course materials.
-*    > [!IMPORTANT]  
+**    > [!IMPORTANT]  
       > test
 *   💡 **Personal Tinkering:** My personal playground! These repositories contain projects I build for fun, to learn something new (currently exploring C# and Raylib!), or to solve a small problem that bugs me.
 
