@@ -38,5 +38,5 @@ Here are some projects I'm particularly proud of or actively working on:
 
 --- 
 
-Feel free to look around! I enjoy technical discussions, and I'm always learning, so feel free to reach out or connect.
+Feel free to look around! I enjoy technical discussions, and I'm always learning, so feel free to reach out or connect 🧑‍💻☕.
 
