@@ -20,5 +20,23 @@ As a fun side-challenge and perhaps another nod to efficiency, I also enjoy spee
 > Some repositories here are forks originating from collaborative group projects. On my fork, I often add detailed README sections to explain the project's context and objectives, and sometimes include relevant reports or documentation for completeness.
 *  💡 **Personal Tinkering:** My personal playground! These repositories contain projects I build for fun, to learn something new (currently exploring C# and Raylib!), or to solve a small problem that bugs me.
 
+---
+
+## Featured Projects 🚀
+
+Here are some projects I'm particularly proud of or actively working on:
+
+*   **[MazeGeneration](https://github.com/mikkn21/MazeGeneration)** - A learning tool to visualize maze generation algorithms and run multiple different algorithms side by side to see their differences.
+
+## Coursework Highlights 🎓
+
+*   **[DM819-Project1](https://github.com/mikkn21/DM819Project1)** - Sweep-line algorithm for visibility problems.
+*   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Fortune's algorithm for computing Voronoi diagrams
+
+
+*You can find all my public repositories under the [Repositories](https://github.com/mikkn21?tab=repositories) tab.*
+
+--- 
+
 Feel free to look around! I enjoy technical discussions, and I'm always learning, so feel free to reach out or connect.
 
