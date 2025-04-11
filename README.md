@@ -26,14 +26,15 @@ As a fun side-challenge and perhaps another nod to efficiency, I also enjoy spee
 
 Here are some projects I'm particularly proud of or actively working on:
 
-*   **[MazeGeneration](https://github.com/mikkn21/MazeGeneration)** - A learning tool to visualize maze generation algorithms and run multiple different algorithms side by side to see their differences.
+*   **[MazeGeneration](https://github.com/mikkn21/MazeGeneration)** - C# | A learning tool to visualize maze generation algorithms and run multiple different algorithms side by side to see their differences.
 
 ## Coursework Highlights 🎓
 
-*   **[The Giga Chad Compiler (Bachelor Thesis)](https://github.com/mikkn21/BachelorThesisGCC)** - Designed and implemented the Giga Chad Compiler (GCC), translating a custom language (GCL) to x86-64 Linux assembly. Features include Boost.Spirit parsing, liveness analysis, peephole optimization, and graph-coloring register allocation.
-*   **[DM819-Project1](https://github.com/mikkn21/DM819Project1)** - Sweep-line algorithm for visibility problems.
-*   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Fortune's algorithm for computing Voronoi diagrams
-*   **[DM885-ExamProject](https://github.com/mikkn21/FrontEndDevOpsProject)** - React/TypeScript frontend for a system designed to automatically test student programming assignments (Microservices/DevOps exam project). 
+*   **[The Giga Chad Compiler (Bachelor Thesis)](https://github.com/mikkn21/BachelorThesisGCC)** - C++ | Designed and implemented the Giga Chad Compiler (GCC), translating a custom language (GCL) to x86-64 Linux assembly. Features include Boost.Spirit parsing, liveness analysis, peephole optimization, and graph-coloring register allocation.
+*   **[DM819-Project1](https://github.com/mikkn21/DM819Project1)** - Python | Sweep-line algorithm for visibility problems.
+*   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Python | Fortune's algorithm for computing Voronoi diagrams
+*   **[DM885-ExamProject](https://github.com/mikkn21/FrontEndDevOpsProject)** - React/TypeScript | Frontend for a system designed to automatically test student programming assignments (Microservices/DevOps exam project).
+*   **[DM571-Project](https://github.com/mikkn21/DM571Project)** - Django/Python | Software Engineering course project: designed and documented an online cinema booking system, emphasizing requirements analysis, system modeling (UML/C4), API specification, and testing.
 
 
 *You can find all my public repositories under the [Repositories](https://github.com/mikkn21?tab=repositories) tab.*
