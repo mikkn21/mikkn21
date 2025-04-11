@@ -33,7 +33,7 @@ Here are some projects I'm particularly proud of or actively working on:
 *   **[The Giga Chad Compiler (Bachelor Thesis)](https://github.com/mikkn21/BachelorThesisGCC)** - Designed and implemented the Giga Chad Compiler (GCC), translating a custom language (GCL) to x86-64 Linux assembly. Features include Boost.Spirit parsing, liveness analysis, peephole optimization, and graph-coloring register allocation.
 *   **[DM819-Project1](https://github.com/mikkn21/DM819Project1)** - Sweep-line algorithm for visibility problems.
 *   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Fortune's algorithm for computing Voronoi diagrams
-*   **[DM8885-ExamProject](https://github.com/mikkn21/FrontEndDevOpsProject)** - React/TypeScript frontend for a system designed to automatically test student programming assignments (Microservices/DevOps exam project). 
+*   **[DM885-ExamProject](https://github.com/mikkn21/FrontEndDevOpsProject)** - React/TypeScript frontend for a system designed to automatically test student programming assignments (Microservices/DevOps exam project). 
 
 
 *You can find all my public repositories under the [Repositories](https://github.com/mikkn21?tab=repositories) tab.*
