@@ -30,6 +30,7 @@ Here are some projects I'm particularly proud of or actively working on:
 
 ## Coursework Highlights 🎓
 
+*   **[The Giga Chad Compiler (Bachelor Thesis)](https://github.com/mikkn21/BachelorThesisGCC)** - Designed and implemented the Giga Chad Compiler (GCC), translating a custom language (GCL) to x86-64 Linux assembly. Features include Boost.Spirit parsing, liveness analysis, peephole optimization, and graph-coloring register allocation.
 *   **[DM819-Project1](https://github.com/mikkn21/DM819Project1)** - Sweep-line algorithm for visibility problems.
 *   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Fortune's algorithm for computing Voronoi diagrams
 
