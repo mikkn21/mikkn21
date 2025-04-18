@@ -35,6 +35,8 @@ Here are some projects I'm particularly proud of or actively working on:
 *   **[DM819-Project2](https://github.com/mikkn21/DM819Project2)** - Python | Fortune's algorithm for computing Voronoi diagrams
 *   **[DM885-ExamProject](https://github.com/mikkn21/FrontEndDevOpsProject)** - React/TypeScript | Frontend for a system designed to automatically test student programming assignments (Microservices/DevOps exam project).
 *   **[DM571-Project](https://github.com/mikkn21/DM571Project)** - Django/Python | Software Engineering course project: designed and documented an online cinema booking system, emphasizing requirements analysis, system modeling (UML/C4), API specification, and testing.
+*  **[DM548-CycleDetection](https://github.com/mikkn21/DM548CycleDetection)** – C | Implemented Kahn’s algorithm for cycle detection in directed graphs.
+
 
 
 *You can find all my public repositories under the [Repositories](https://github.com/mikkn21?tab=repositories) tab.*
