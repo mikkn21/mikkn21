@@ -16,10 +16,10 @@ As a fun side-challenge and perhaps another nod to efficiency, I also enjoy spee
 
 
 ### On this profile, you'll find:
-*  🎓 **Academic Explorations:** Code related to my university coursework and larger projects, demonstrating concepts I've learned and applied. This sometimes includes public versions of collaborative group work (see note below).
+*  💡 **Personal Tinkering:** My personal playground! These repositories contain projects I build for fun, to learn something new (currently exploring C# and Raylib!), or to solve a small problem that bugs me.
 > [!NOTE]
 > For some collaborative group projects (originally developed privately), I've created separate public repositories to share and document the work more thoroughly. In these public copies, I often add detailed README sections explaining the project's context and objectives and sometimes include relevant reports or documentation for completeness.
-*  💡 **Personal Tinkering:** My personal playground! These repositories contain projects I build for fun, to learn something new (currently exploring C# and Raylib!), or to solve a small problem that bugs me.
+*  🎓 **Academic Explorations:** Code related to my university coursework and larger projects, demonstrating concepts I've learned and applied. This sometimes includes public versions of collaborative group work (see note below).
 
 ---
 
