@@ -23,29 +23,15 @@ As a fun side-challenge and perhaps another nod to efficiency, I also enjoy spee
 
 ---
 
-## GitHub Stats & Language Usage 📊
+## Language Breakdown 📊
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mikkn21#gh-dark-mode-only">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkn21&hide=php&show_icons=true&layout=donut&theme=gruvbox#gh-dark-mode-only" />
-      </a>
-      <a href="https://github.com/mikkn21#gh-light-mode-only">
-        <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkn21&hide=php&show_icons=true&layout=donut&theme=gruvbox_light#gh-light-mode-only" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mikkn21#gh-dark-mode-only">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mikkn21&show_icons=true&theme=gruvbox#gh-dark-mode-only" />
-      </a>
-      <a href="https://github.com/mikkn21#gh-light-mode-only">
-        <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=mikkn21&show_icons=true&theme=gruvbox_light#gh-light-mode-only" />
-      </a>
-    </td>
-  </tr>
-</table>
-</table>
+<a href="https://github.com/mikkn21#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkn21&hide=php&show_icons=true&layout=donut&theme=gruvbox#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/mikkn21#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkn21&hide=php&show_icons=true&layout=donut&theme=gruvbox_light#gh-light-mode-only" />
+</a>
+
 
 
 ## Featured Projects 🚀
